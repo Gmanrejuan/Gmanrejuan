@@ -7,7 +7,77 @@
 
 - 📫 How to reach me **rejuangm@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3><!-- Banner / Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Gilman+MD.+Rejuan;Software+Engineering+Student;Frontend+%26+Backend+Developer;React+%7C+Next.js+%7C+Node.js+Lover" alt="Typing SVG" />
+</p>
+
+---
+
+### 👨‍💻 **About Me**
+I'm a passionate **Software Engineering student from Bangladesh** who loves solving problems and building real-world applications.
+
+- 🌱 I’m currently learning **C#, .NET, Python**  
+- 💬 Ask me about **React, Next.js, Node.js**  
+- 📫 Reach me at **rejuangm@gmail.com**
+
+---
+
+## 🌐 **Connect with Me**
+<p align="left">
+  <a href="mailto:rejuangm@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/gilmanrejuan"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+## 🛠️ **Languages & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,next,nodejs,express,mongodb,mysql,firebase,python,java,git,linux,vscode" />
+</p>
+
+---
+
+## 🚀 **My GitHub Stats**
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gilmanrejuan&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilmanrejuan&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 **GitHub Streak**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gilmanrejuan&theme=tokyonight" />
+</p>
+
+---
+
+## 🌀 **Activity Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gilmanrejuan&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 **Fun Animations**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px">
+</p>
+
+---
+
+## 👁️ **Profile Visitors**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gilmanrejuan&label=Profile+Views&color=1E90FF&style=flat-square"/>
+</p>
+
+---
+
+### 🎉 Thanks for Visiting My Profile!
+<p align="center"><b>⭐ Don't forget to star my repositories!</b></p>
+
 <p align="left">
 </p>
 
