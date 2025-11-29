@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220" preserveAspectRatio="xMidYMid meet" aria-label="Waving Hi">
+  <!-- Background -->
+  <rect width="100%" height="100%" rx="16" fill="#eaf6ff" />
+
+  <!-- Face -->
+  <g transform="translate(120,55)">
+    <circle cx="0" cy="40" r="48" fill="#ffffff" stroke="#cfefff" stroke-width="3"/>
+    <circle cx="-18" cy="32" r="5" fill="#222"/>
+    <circle cx="10" cy="32" r="5" fill="#222"/>
+    <path d="M -20 52 q 20 18 40 0" stroke="#333" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Body -->
+  <g transform="translate(120,120)">
+    <rect x="-36" y="4" width="72" height="56" rx="10" fill="#cfefff" stroke="#9fd7ff" stroke-width="2"/>
+  </g>
+
+  <!-- Waving arm group: we'll rotate this group to make the hand wave -->
+  <g id="arm" transform="translate(160,80)">
+    <!-- upper arm -->
+    <rect x="0" y="10" width="8" height="44" rx="4" fill="#cfefff" stroke="#9fd7ff" stroke-width="1.2" />
+    <!-- forearm -->
+    <g transform="translate(6,50)">
+      <rect x="-4" y="-6" width="40" height="12" rx="6" fill="#cfefff" stroke="#9fd7ff" stroke-width="1.2"/>
+      <!-- hand -->
+      <g transform="translate(40,0)">
+        <ellipse cx="12" cy="0" rx="10" ry="8" fill="#ffffff" stroke="#cfefff" stroke-width="1.2"/>
+      </g>
+    </g>
+
+    <!-- animate the whole arm group around the shoulder (pivot near x=0,y=10) -->
+    <animateTransform attributeName="transform"
+                      type="rotate"
+                      dur="1.0s"
+                      values="-20 0 10; 20 0 10; -20 0 10"
+                      repeatCount="indefinite"
+                      begin="0s" />
+  </g>
+
+  <!-- Motion lines near the hand to accent the wave (pulsing opacity) -->
+  <g transform="translate(240,70)" opacity="0.9">
+    <path d="M0 0 q8 -6 16 0" stroke="#8fcfff" stroke-width="4" fill="none" stroke-linecap="round">
+      <animate attributeName="opacity" values="0.0;1;0.0" dur="1s" repeatCount="indefinite" />
+    </path>
+    <path d="M12 -6 q8 -6 18 0" stroke="#bfeaff" stroke-width="3" fill="none" stroke-linecap="round">
+      <animate attributeName="opacity" values="0.0;1;0.0" dur="1s" repeatCount="indefinite" begin="0.15s" />
+    </path>
+  </g>
+
+  <!-- "Hi!" text -->
+  <text x="320" y="110" font-family="Segoe UI, Roboto, sans-serif" font-size="46" fill="#0b76d1" font-weight="700">Hi!</text>
+
+  <!-- small credit (optional) -->
+  <text x="10" y="200" font-family="Segoe UI, Roboto, sans-serif" font-size="11" fill="#7aaed8">Made with ♥ — add to README</text>
+</svg>
