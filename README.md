@@ -45,6 +45,11 @@ I'm a passionate **Software Engineering student from Bangladesh** who loves solv
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilmanrejuan&layout=compact&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="./waving.svg" alt="Hi! 👋" width="420"/>
+</p>
+
+
 ---
 
 ## 🔥 **GitHub Streak**
